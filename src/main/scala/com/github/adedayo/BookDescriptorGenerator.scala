@@ -153,6 +153,6 @@ case class BibleBook(name: String, abbreviations: List[String]) {
   }
 }
 
-case class BibleAbbreviations(description: String = "Common Bible Book Abbreviation", abbreviations: List[BookAbbreviation])
+case class BibleAbbreviations(description: String = "Common Bible Book Abbreviations", abbreviations: List[BookAbbreviation])
 
 case class BookAbbreviation(abbrev: String, name: String, canonicalAbbreviation: String)
