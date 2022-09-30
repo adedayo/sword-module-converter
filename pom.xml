@@ -6,7 +6,7 @@
   <inceptionYear>2020</inceptionYear>
   <properties>
 
-    <scala.version>2.13.2</scala.version>
+    <scala.version>2.13.9</scala.version>
     <java.source.version>11</java.source.version>
     <jackson.version>2.11.0</jackson.version>
   </properties>
